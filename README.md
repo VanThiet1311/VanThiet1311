@@ -1,4 +1,7 @@
 # 👋 Văn Thiết EasySalon
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=T%E1%BB%AB+Khi+n%C3%A0o+fullstack+developer+l%E1%BA%A1i+l%E1%BA%A1m+ph%C3%A1t+nh%C6%B0+v%E1%BA%ADy" />
+</p>
 
 ---
 
